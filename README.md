@@ -1,2 +1,2 @@
 # Java
-This repository contailns all my Java programs
+<h1>This repository contains all my Java programs.</h1>
