@@ -1,3 +1,5 @@
+package Practice;
+
 // Program to take input from user
 import java.util.Scanner;
 public class Input {

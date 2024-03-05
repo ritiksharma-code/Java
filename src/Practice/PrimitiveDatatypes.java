@@ -1,3 +1,5 @@
+package Practice;
+
 // Primitive Datatypes - The datatypes which cannot be broken are primitive datatype
 
 public class PrimitiveDatatypes {
