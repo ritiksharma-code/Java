@@ -19,5 +19,7 @@ public class TypeCasting {
         byte c = 100;
         int d = a * b / c;
         System.out.println(d);
+
+        System.out.println(3 * 43.02);      // Automatic Type promotion to float
     }
 }
