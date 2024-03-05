@@ -1,6 +1,6 @@
 package Lab;
 
-public class firstprgram {
+public class firstprogram {
     public static String name;
     public static int marks;    // If we remove static we will get an error
     public static void main(String[] args) {
