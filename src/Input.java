@@ -1,6 +1,6 @@
 // Program to take input from user
 import java.util.Scanner;
-public class input {
+public class Input {
     public static void main(String[] args) {
         System.out.println("Enter the number: ");
         Scanner input = new Scanner(System.in);
