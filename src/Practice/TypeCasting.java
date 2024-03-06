@@ -12,7 +12,7 @@ public class TypeCasting {
 
         // Automatic type promotion in expressions
         /*int a = 257;
-        byte b = (byte)(a);*/             // 257 % 256 = 1
+        byte b = (byte)(a);*/            // 257 % 256 = 1
 
         byte a = 40;
         byte b = 50;
