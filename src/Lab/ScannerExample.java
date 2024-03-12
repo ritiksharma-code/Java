@@ -18,4 +18,15 @@ public class ScannerExample {
         System.out.println("Marks: "+Marks);
         System.out.println("Grade: "+Grade);
     }
+
+    public static class ifElse_DecisionMakingStatement {
+        public static void main(String[] args) {
+            String name = "Raj";
+            int roll = 25;
+            if(name=="Raj"&&roll==25)
+            {
+                System.out.println("Details of Raj.");
+            }
+        }
+    }
 }

@@ -9,9 +9,22 @@ public class Loops {
             count++;
         }*/
 
-        // for loop
-        for (int count = 1; count != 5; count++){
+        // for loop             // Snippet - fori
+        /*for (int count = 1; count != 5; count++){
             System.out.println(count);
+        }*/
+
+        // do while loop
+        //Syntax:
+        /*do{
+            //body
+        }while(condition);*/
+
+        int n = 1;
+        do{
+            System.out.println(n);
+            n++;
         }
+        while(n<=5);
     }
 }
