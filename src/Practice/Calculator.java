@@ -8,7 +8,7 @@ public class Calculator {
         System.out.print("Enter two numbers: ");
         int num1 = input.nextInt();
         int num2 = input.nextInt();
-        System.out.print("Enter Operator (+, -, *, /): ");
+        System.out.print("Enter Operator (+, -, *, /, %): ");
         char operator = input.next().charAt(0);
         int result = 0;
 
@@ -23,6 +23,8 @@ public class Calculator {
         }
         else if (operator == '*') {
             result = num1*num2;
+        }else if (operator == '%') {
+            result = num1%num2;
         }
         else{
             System.out.println("Invalid Input!");
